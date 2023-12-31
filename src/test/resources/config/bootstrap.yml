@@ -1,0 +1,15 @@
+spring:
+  application:
+    name: TuPagoTemplate
+  cloud:
+    config:
+      enabled: false
+    compatibility-verifier:
+      enabled: false
+    gateway:
+      discovery:
+        locator:
+          enabled: false
+eureka:
+  client:
+    enabled: false

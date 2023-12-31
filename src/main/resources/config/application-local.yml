@@ -1,0 +1,12 @@
+logging:
+  level:
+    com:
+      mycompany:
+        myapp: DEBUG
+      tupago: DEBUG
+spring:
+  devtools:
+    restart:
+      enabled: true
+    livereload:
+      enabled: true

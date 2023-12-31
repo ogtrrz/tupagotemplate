@@ -1,0 +1,1335 @@
+{
+  "actions" : [ {
+    "module" : "init",
+    "date" : "2023-12-31T13:28:31.238805Z",
+    "properties" : {
+      "packageName" : "com.mycompany.myapp",
+      "projectName" : "JHipster Sample Application",
+      "baseName" : "jhipsterSampleApplication",
+      "serverPort" : 8080,
+      "endOfLine" : "lf",
+      "configurationFormat" : "yaml",
+      "indentSize" : 2
+    }
+  }, {
+    "module" : "maven-java",
+    "date" : "2023-12-31T13:28:31.312286Z",
+    "properties" : {
+      "packageName" : "com.mycompany.myapp",
+      "projectName" : "JHipster Sample Application",
+      "baseName" : "jhipsterSampleApplication",
+      "serverPort" : 8080,
+      "endOfLine" : "lf",
+      "configurationFormat" : "yaml",
+      "indentSize" : 2
+    }
+  }, {
+    "module" : "java-base",
+    "date" : "2023-12-31T13:28:31.408639Z",
+    "properties" : {
+      "packageName" : "com.mycompany.myapp",
+      "projectName" : "JHipster Sample Application",
+      "baseName" : "jhipsterSampleApplication",
+      "serverPort" : 8080,
+      "endOfLine" : "lf",
+      "configurationFormat" : "yaml",
+      "indentSize" : 2
+    }
+  }, {
+    "module" : "pagination-domain",
+    "date" : "2023-12-31T13:28:31.695868Z",
+    "properties" : {
+      "packageName" : "com.mycompany.myapp",
+      "projectName" : "JHipster Sample Application",
+      "baseName" : "jhipsterSampleApplication",
+      "serverPort" : 8080,
+      "endOfLine" : "lf",
+      "configurationFormat" : "yaml",
+      "indentSize" : 2
+    }
+  }, {
+    "module" : "spring-boot",
+    "date" : "2023-12-31T13:28:31.903761Z",
+    "properties" : {
+      "packageName" : "com.mycompany.myapp",
+      "projectName" : "JHipster Sample Application",
+      "baseName" : "jhipsterSampleApplication",
+      "serverPort" : 8080,
+      "endOfLine" : "lf",
+      "configurationFormat" : "yaml",
+      "indentSize" : 2
+    }
+  }, {
+    "module" : "postgresql",
+    "date" : "2023-12-31T13:28:32.197532Z",
+    "properties" : {
+      "packageName" : "com.mycompany.myapp",
+      "projectName" : "JHipster Sample Application",
+      "baseName" : "jhipsterSampleApplication",
+      "serverPort" : 8080,
+      "endOfLine" : "lf",
+      "configurationFormat" : "yaml",
+      "indentSize" : 2
+    }
+  }, {
+    "module" : "redis",
+    "date" : "2023-12-31T13:28:32.399470Z",
+    "properties" : {
+      "packageName" : "com.mycompany.myapp",
+      "projectName" : "JHipster Sample Application",
+      "baseName" : "jhipsterSampleApplication",
+      "serverPort" : 8080,
+      "endOfLine" : "lf",
+      "configurationFormat" : "yaml",
+      "indentSize" : 2
+    }
+  }, {
+    "module" : "spring-boot-async",
+    "date" : "2023-12-31T13:28:32.596764Z",
+    "properties" : {
+      "packageName" : "com.mycompany.myapp",
+      "projectName" : "JHipster Sample Application",
+      "baseName" : "jhipsterSampleApplication",
+      "serverPort" : 8080,
+      "endOfLine" : "lf",
+      "configurationFormat" : "yaml",
+      "indentSize" : 2
+    }
+  }, {
+    "module" : "spring-boot-cache",
+    "date" : "2023-12-31T13:28:32.711044Z",
+    "properties" : {
+      "packageName" : "com.mycompany.myapp",
+      "projectName" : "JHipster Sample Application",
+      "baseName" : "jhipsterSampleApplication",
+      "serverPort" : 8080,
+      "endOfLine" : "lf",
+      "configurationFormat" : "yaml",
+      "indentSize" : 2
+    }
+  }, {
+    "module" : "spring-boot-devtools",
+    "date" : "2023-12-31T13:28:32.905752Z",
+    "properties" : {
+      "packageName" : "com.mycompany.myapp",
+      "projectName" : "JHipster Sample Application",
+      "baseName" : "jhipsterSampleApplication",
+      "serverPort" : 8080,
+      "endOfLine" : "lf",
+      "configurationFormat" : "yaml",
+      "indentSize" : 2
+    }
+  }, {
+    "module" : "spring-boot-kafka",
+    "date" : "2023-12-31T13:28:33.105824Z",
+    "properties" : {
+      "packageName" : "com.mycompany.myapp",
+      "projectName" : "JHipster Sample Application",
+      "baseName" : "jhipsterSampleApplication",
+      "serverPort" : 8080,
+      "endOfLine" : "lf",
+      "configurationFormat" : "yaml",
+      "indentSize" : 2
+    }
+  }, {
+    "module" : "spring-boot-webflux-empty",
+    "date" : "2023-12-31T13:28:33.302467Z",
+    "properties" : {
+      "packageName" : "com.mycompany.myapp",
+      "projectName" : "JHipster Sample Application",
+      "baseName" : "jhipsterSampleApplication",
+      "serverPort" : 8080,
+      "endOfLine" : "lf",
+      "configurationFormat" : "yaml",
+      "indentSize" : 2
+    }
+  }, {
+    "module" : "ehcache-java-config",
+    "date" : "2023-12-31T13:28:33.507164Z",
+    "properties" : {
+      "packageName" : "com.mycompany.myapp",
+      "projectName" : "JHipster Sample Application",
+      "baseName" : "jhipsterSampleApplication",
+      "serverPort" : 8080,
+      "endOfLine" : "lf",
+      "configurationFormat" : "yaml",
+      "indentSize" : 2
+    }
+  }, {
+    "module" : "jpa-pagination",
+    "date" : "2023-12-31T13:28:33.698071Z",
+    "properties" : {
+      "packageName" : "com.mycompany.myapp",
+      "projectName" : "JHipster Sample Application",
+      "baseName" : "jhipsterSampleApplication",
+      "serverPort" : 8080,
+      "endOfLine" : "lf",
+      "configurationFormat" : "yaml",
+      "indentSize" : 2
+    }
+  }, {
+    "module" : "spring-boot-actuator",
+    "date" : "2023-12-31T13:28:33.905236Z",
+    "properties" : {
+      "packageName" : "com.mycompany.myapp",
+      "projectName" : "JHipster Sample Application",
+      "baseName" : "jhipsterSampleApplication",
+      "serverPort" : 8080,
+      "endOfLine" : "lf",
+      "configurationFormat" : "yaml",
+      "indentSize" : 2
+    }
+  }, {
+    "module" : "spring-boot-kafka-dummy-producer-consumer",
+    "date" : "2023-12-31T13:28:34.095248Z",
+    "properties" : {
+      "packageName" : "com.mycompany.myapp",
+      "projectName" : "JHipster Sample Application",
+      "baseName" : "jhipsterSampleApplication",
+      "serverPort" : 8080,
+      "endOfLine" : "lf",
+      "configurationFormat" : "yaml",
+      "indentSize" : 2
+    }
+  }, {
+    "module" : "spring-boot-webflux-netty",
+    "date" : "2023-12-31T13:28:34.308640Z",
+    "properties" : {
+      "packageName" : "com.mycompany.myapp",
+      "projectName" : "JHipster Sample Application",
+      "baseName" : "jhipsterSampleApplication",
+      "serverPort" : 8080,
+      "endOfLine" : "lf",
+      "configurationFormat" : "yaml",
+      "indentSize" : 2
+    }
+  }, {
+    "module" : "hibernate-2nd-level-cache",
+    "date" : "2023-12-31T13:28:34.613245Z",
+    "properties" : {
+      "packageName" : "com.mycompany.myapp",
+      "projectName" : "JHipster Sample Application",
+      "baseName" : "jhipsterSampleApplication",
+      "serverPort" : 8080,
+      "endOfLine" : "lf",
+      "configurationFormat" : "yaml",
+      "indentSize" : 2
+    }
+  }, {
+    "module" : "springdoc-webflux-openapi",
+    "date" : "2023-12-31T13:28:34.897021Z",
+    "properties" : {
+      "packageName" : "com.mycompany.myapp",
+      "projectName" : "JHipster Sample Application",
+      "baseName" : "jhipsterSampleApplication",
+      "serverPort" : 8080,
+      "endOfLine" : "lf",
+      "configurationFormat" : "yaml",
+      "indentSize" : 2
+    }
+  }, {
+    "module" : "rest-pagination",
+    "date" : "2023-12-31T13:28:35.015547Z",
+    "properties" : {
+      "packageName" : "com.mycompany.myapp",
+      "projectName" : "JHipster Sample Application",
+      "baseName" : "jhipsterSampleApplication",
+      "serverPort" : 8080,
+      "endOfLine" : "lf",
+      "configurationFormat" : "yaml",
+      "indentSize" : 2
+    }
+  }, {
+    "module" : "spring-cloud",
+    "date" : "2023-12-31T13:30:52.505271Z",
+    "properties" : {
+      "packageName" : "com.mycompany.myapp",
+      "projectName" : "JHipster Sample Application",
+      "baseName" : "jhipsterSampleApplication",
+      "serverPort" : 8080,
+      "endOfLine" : "lf",
+      "configurationFormat" : "yaml",
+      "indentSize" : 2
+    }
+  }, {
+    "module" : "eureka-client",
+    "date" : "2023-12-31T13:30:52.795842Z",
+    "properties" : {
+      "packageName" : "com.mycompany.myapp",
+      "projectName" : "JHipster Sample Application",
+      "baseName" : "jhipsterSampleApplication",
+      "serverPort" : 8080,
+      "endOfLine" : "lf",
+      "configurationFormat" : "yaml",
+      "indentSize" : 2
+    }
+  }, {
+    "module" : "gateway",
+    "date" : "2023-12-31T13:30:53.007157Z",
+    "properties" : {
+      "packageName" : "com.mycompany.myapp",
+      "projectName" : "JHipster Sample Application",
+      "baseName" : "jhipsterSampleApplication",
+      "serverPort" : 8080,
+      "endOfLine" : "lf",
+      "configurationFormat" : "yaml",
+      "indentSize" : 2
+    }
+  }, {
+    "module" : "prettier",
+    "date" : "2023-12-31T13:31:22.836872Z",
+    "properties" : {
+      "packageName" : "com.mycompany.myapp",
+      "projectName" : "JHipster Sample Application",
+      "baseName" : "jhipsterSampleApplication",
+      "serverPort" : 8080,
+      "endOfLine" : "lf",
+      "configurationFormat" : "yaml",
+      "indentSize" : 2
+    }
+  }, {
+    "module" : "react-core",
+    "date" : "2023-12-31T13:31:23.005522Z",
+    "properties" : {
+      "packageName" : "com.mycompany.myapp",
+      "projectName" : "JHipster Sample Application",
+      "baseName" : "jhipsterSampleApplication",
+      "serverPort" : 8080,
+      "endOfLine" : "lf",
+      "configurationFormat" : "yaml",
+      "indentSize" : 2
+    }
+  }, {
+    "module" : "java-memoizers",
+    "date" : "2023-12-31T13:31:23.294407Z",
+    "properties" : {
+      "packageName" : "com.mycompany.myapp",
+      "projectName" : "JHipster Sample Application",
+      "baseName" : "jhipsterSampleApplication",
+      "serverPort" : 8080,
+      "endOfLine" : "lf",
+      "configurationFormat" : "yaml",
+      "indentSize" : 2
+    }
+  }, {
+    "module" : "react-jwt",
+    "date" : "2023-12-31T13:31:23.511913Z",
+    "properties" : {
+      "packageName" : "com.mycompany.myapp",
+      "projectName" : "JHipster Sample Application",
+      "baseName" : "jhipsterSampleApplication",
+      "serverPort" : 8080,
+      "endOfLine" : "lf",
+      "configurationFormat" : "yaml",
+      "indentSize" : 2
+    }
+  }, {
+    "module" : "init",
+    "date" : "2023-12-31T13:33:07.547309Z",
+    "properties" : {
+      "packageName" : "com.tupago",
+      "projectName" : "TuPagoTemplate",
+      "baseName" : "TuPagoTemplate",
+      "serverPort" : 8080,
+      "endOfLine" : "lf",
+      "configurationFormat" : "yaml",
+      "indentSize" : 2
+    }
+  }, {
+    "module" : "maven-java",
+    "date" : "2023-12-31T13:33:07.806445Z",
+    "properties" : {
+      "packageName" : "com.tupago",
+      "projectName" : "TuPagoTemplate",
+      "baseName" : "TuPagoTemplate",
+      "serverPort" : 8080,
+      "endOfLine" : "lf",
+      "configurationFormat" : "yaml",
+      "indentSize" : 2
+    }
+  }, {
+    "module" : "prettier",
+    "date" : "2023-12-31T13:33:08.097287Z",
+    "properties" : {
+      "packageName" : "com.tupago",
+      "projectName" : "TuPagoTemplate",
+      "baseName" : "TuPagoTemplate",
+      "serverPort" : 8080,
+      "endOfLine" : "lf",
+      "configurationFormat" : "yaml",
+      "indentSize" : 2
+    }
+  }, {
+    "module" : "java-base",
+    "date" : "2023-12-31T13:33:08.304856Z",
+    "properties" : {
+      "packageName" : "com.tupago",
+      "projectName" : "TuPagoTemplate",
+      "baseName" : "TuPagoTemplate",
+      "serverPort" : 8080,
+      "endOfLine" : "lf",
+      "configurationFormat" : "yaml",
+      "indentSize" : 2
+    }
+  }, {
+    "module" : "react-core",
+    "date" : "2023-12-31T13:33:08.703301Z",
+    "properties" : {
+      "packageName" : "com.tupago",
+      "projectName" : "TuPagoTemplate",
+      "baseName" : "TuPagoTemplate",
+      "serverPort" : 8080,
+      "endOfLine" : "lf",
+      "configurationFormat" : "yaml",
+      "indentSize" : 2
+    }
+  }, {
+    "module" : "java-memoizers",
+    "date" : "2023-12-31T13:33:08.998612Z",
+    "properties" : {
+      "packageName" : "com.tupago",
+      "projectName" : "TuPagoTemplate",
+      "baseName" : "TuPagoTemplate",
+      "serverPort" : 8080,
+      "endOfLine" : "lf",
+      "configurationFormat" : "yaml",
+      "indentSize" : 2
+    }
+  }, {
+    "module" : "pagination-domain",
+    "date" : "2023-12-31T13:33:09.301383Z",
+    "properties" : {
+      "packageName" : "com.tupago",
+      "projectName" : "TuPagoTemplate",
+      "baseName" : "TuPagoTemplate",
+      "serverPort" : 8080,
+      "endOfLine" : "lf",
+      "configurationFormat" : "yaml",
+      "indentSize" : 2
+    }
+  }, {
+    "module" : "react-jwt",
+    "date" : "2023-12-31T13:33:09.608084Z",
+    "properties" : {
+      "packageName" : "com.tupago",
+      "projectName" : "TuPagoTemplate",
+      "baseName" : "TuPagoTemplate",
+      "serverPort" : 8080,
+      "endOfLine" : "lf",
+      "configurationFormat" : "yaml",
+      "indentSize" : 2
+    }
+  }, {
+    "module" : "spring-boot",
+    "date" : "2023-12-31T13:33:10.004484Z",
+    "properties" : {
+      "packageName" : "com.tupago",
+      "projectName" : "TuPagoTemplate",
+      "baseName" : "TuPagoTemplate",
+      "serverPort" : 8080,
+      "endOfLine" : "lf",
+      "configurationFormat" : "yaml",
+      "indentSize" : 2
+    }
+  }, {
+    "module" : "postgresql",
+    "date" : "2023-12-31T13:33:10.497441Z",
+    "properties" : {
+      "packageName" : "com.tupago",
+      "projectName" : "TuPagoTemplate",
+      "baseName" : "TuPagoTemplate",
+      "serverPort" : 8080,
+      "endOfLine" : "lf",
+      "configurationFormat" : "yaml",
+      "indentSize" : 2
+    }
+  }, {
+    "module" : "redis",
+    "date" : "2023-12-31T13:33:10.806976Z",
+    "properties" : {
+      "packageName" : "com.tupago",
+      "projectName" : "TuPagoTemplate",
+      "baseName" : "TuPagoTemplate",
+      "serverPort" : 8080,
+      "endOfLine" : "lf",
+      "configurationFormat" : "yaml",
+      "indentSize" : 2
+    }
+  }, {
+    "module" : "spring-boot-async",
+    "date" : "2023-12-31T13:33:11.200710Z",
+    "properties" : {
+      "packageName" : "com.tupago",
+      "projectName" : "TuPagoTemplate",
+      "baseName" : "TuPagoTemplate",
+      "serverPort" : 8080,
+      "endOfLine" : "lf",
+      "configurationFormat" : "yaml",
+      "indentSize" : 2
+    }
+  }, {
+    "module" : "spring-boot-cache",
+    "date" : "2023-12-31T13:33:11.502711Z",
+    "properties" : {
+      "packageName" : "com.tupago",
+      "projectName" : "TuPagoTemplate",
+      "baseName" : "TuPagoTemplate",
+      "serverPort" : 8080,
+      "endOfLine" : "lf",
+      "configurationFormat" : "yaml",
+      "indentSize" : 2
+    }
+  }, {
+    "module" : "spring-boot-devtools",
+    "date" : "2023-12-31T13:33:11.893158Z",
+    "properties" : {
+      "packageName" : "com.tupago",
+      "projectName" : "TuPagoTemplate",
+      "baseName" : "TuPagoTemplate",
+      "serverPort" : 8080,
+      "endOfLine" : "lf",
+      "configurationFormat" : "yaml",
+      "indentSize" : 2
+    }
+  }, {
+    "module" : "spring-boot-kafka",
+    "date" : "2023-12-31T13:33:12.207830Z",
+    "properties" : {
+      "packageName" : "com.tupago",
+      "projectName" : "TuPagoTemplate",
+      "baseName" : "TuPagoTemplate",
+      "serverPort" : 8080,
+      "endOfLine" : "lf",
+      "configurationFormat" : "yaml",
+      "indentSize" : 2
+    }
+  }, {
+    "module" : "spring-boot-webflux-empty",
+    "date" : "2023-12-31T13:33:12.512211Z",
+    "properties" : {
+      "packageName" : "com.tupago",
+      "projectName" : "TuPagoTemplate",
+      "baseName" : "TuPagoTemplate",
+      "serverPort" : 8080,
+      "endOfLine" : "lf",
+      "configurationFormat" : "yaml",
+      "indentSize" : 2
+    }
+  }, {
+    "module" : "ehcache-java-config",
+    "date" : "2023-12-31T13:33:12.904087Z",
+    "properties" : {
+      "packageName" : "com.tupago",
+      "projectName" : "TuPagoTemplate",
+      "baseName" : "TuPagoTemplate",
+      "serverPort" : 8080,
+      "endOfLine" : "lf",
+      "configurationFormat" : "yaml",
+      "indentSize" : 2
+    }
+  }, {
+    "module" : "jpa-pagination",
+    "date" : "2023-12-31T13:33:13.209564Z",
+    "properties" : {
+      "packageName" : "com.tupago",
+      "projectName" : "TuPagoTemplate",
+      "baseName" : "TuPagoTemplate",
+      "serverPort" : 8080,
+      "endOfLine" : "lf",
+      "configurationFormat" : "yaml",
+      "indentSize" : 2
+    }
+  }, {
+    "module" : "spring-boot-actuator",
+    "date" : "2023-12-31T13:33:13.605482Z",
+    "properties" : {
+      "packageName" : "com.tupago",
+      "projectName" : "TuPagoTemplate",
+      "baseName" : "TuPagoTemplate",
+      "serverPort" : 8080,
+      "endOfLine" : "lf",
+      "configurationFormat" : "yaml",
+      "indentSize" : 2
+    }
+  }, {
+    "module" : "spring-boot-kafka-dummy-producer-consumer",
+    "date" : "2023-12-31T13:33:14.000523Z",
+    "properties" : {
+      "packageName" : "com.tupago",
+      "projectName" : "TuPagoTemplate",
+      "baseName" : "TuPagoTemplate",
+      "serverPort" : 8080,
+      "endOfLine" : "lf",
+      "configurationFormat" : "yaml",
+      "indentSize" : 2
+    }
+  }, {
+    "module" : "spring-boot-webflux-netty",
+    "date" : "2023-12-31T13:33:14.404137Z",
+    "properties" : {
+      "packageName" : "com.tupago",
+      "projectName" : "TuPagoTemplate",
+      "baseName" : "TuPagoTemplate",
+      "serverPort" : 8080,
+      "endOfLine" : "lf",
+      "configurationFormat" : "yaml",
+      "indentSize" : 2
+    }
+  }, {
+    "module" : "hibernate-2nd-level-cache",
+    "date" : "2023-12-31T13:33:14.799097Z",
+    "properties" : {
+      "packageName" : "com.tupago",
+      "projectName" : "TuPagoTemplate",
+      "baseName" : "TuPagoTemplate",
+      "serverPort" : 8080,
+      "endOfLine" : "lf",
+      "configurationFormat" : "yaml",
+      "indentSize" : 2
+    }
+  }, {
+    "module" : "spring-cloud",
+    "date" : "2023-12-31T13:33:15.209723Z",
+    "properties" : {
+      "packageName" : "com.tupago",
+      "projectName" : "TuPagoTemplate",
+      "baseName" : "TuPagoTemplate",
+      "serverPort" : 8080,
+      "endOfLine" : "lf",
+      "configurationFormat" : "yaml",
+      "indentSize" : 2
+    }
+  }, {
+    "module" : "eureka-client",
+    "date" : "2023-12-31T13:33:15.703583Z",
+    "properties" : {
+      "packageName" : "com.tupago",
+      "projectName" : "TuPagoTemplate",
+      "baseName" : "TuPagoTemplate",
+      "serverPort" : 8080,
+      "endOfLine" : "lf",
+      "configurationFormat" : "yaml",
+      "indentSize" : 2
+    }
+  }, {
+    "module" : "gateway",
+    "date" : "2023-12-31T13:33:16.107345Z",
+    "properties" : {
+      "packageName" : "com.tupago",
+      "projectName" : "TuPagoTemplate",
+      "baseName" : "TuPagoTemplate",
+      "serverPort" : 8080,
+      "endOfLine" : "lf",
+      "configurationFormat" : "yaml",
+      "indentSize" : 2
+    }
+  }, {
+    "module" : "springdoc-webflux-openapi",
+    "date" : "2023-12-31T13:33:16.605516Z",
+    "properties" : {
+      "packageName" : "com.tupago",
+      "projectName" : "TuPagoTemplate",
+      "baseName" : "TuPagoTemplate",
+      "serverPort" : 8080,
+      "endOfLine" : "lf",
+      "configurationFormat" : "yaml",
+      "indentSize" : 2
+    }
+  }, {
+    "module" : "rest-pagination",
+    "date" : "2023-12-31T13:33:16.911961Z",
+    "properties" : {
+      "packageName" : "com.tupago",
+      "projectName" : "TuPagoTemplate",
+      "baseName" : "TuPagoTemplate",
+      "serverPort" : 8080,
+      "endOfLine" : "lf",
+      "configurationFormat" : "yaml",
+      "indentSize" : 2
+    }
+  }, {
+    "module" : "init",
+    "date" : "2023-12-31T13:43:17.346724Z",
+    "properties" : {
+      "packageName" : "com.tupago",
+      "projectName" : "TuPagoTemplate",
+      "baseName" : "TuPagoTemplate",
+      "serverPort" : 8080,
+      "endOfLine" : "lf",
+      "configurationFormat" : "yaml",
+      "indentSize" : 2
+    }
+  }, {
+    "module" : "maven-java",
+    "date" : "2023-12-31T13:43:17.708633Z",
+    "properties" : {
+      "packageName" : "com.tupago",
+      "projectName" : "TuPagoTemplate",
+      "baseName" : "TuPagoTemplate",
+      "serverPort" : 8080,
+      "endOfLine" : "lf",
+      "configurationFormat" : "yaml",
+      "indentSize" : 2
+    }
+  }, {
+    "module" : "prettier",
+    "date" : "2023-12-31T13:43:18.101052Z",
+    "properties" : {
+      "packageName" : "com.tupago",
+      "projectName" : "TuPagoTemplate",
+      "baseName" : "TuPagoTemplate",
+      "serverPort" : 8080,
+      "endOfLine" : "lf",
+      "configurationFormat" : "yaml",
+      "indentSize" : 2
+    }
+  }, {
+    "module" : "java-base",
+    "date" : "2023-12-31T13:43:18.495132Z",
+    "properties" : {
+      "packageName" : "com.tupago",
+      "projectName" : "TuPagoTemplate",
+      "baseName" : "TuPagoTemplate",
+      "serverPort" : 8080,
+      "endOfLine" : "lf",
+      "configurationFormat" : "yaml",
+      "indentSize" : 2
+    }
+  }, {
+    "module" : "react-core",
+    "date" : "2023-12-31T13:43:18.804975Z",
+    "properties" : {
+      "packageName" : "com.tupago",
+      "projectName" : "TuPagoTemplate",
+      "baseName" : "TuPagoTemplate",
+      "serverPort" : 8080,
+      "endOfLine" : "lf",
+      "configurationFormat" : "yaml",
+      "indentSize" : 2
+    }
+  }, {
+    "module" : "java-memoizers",
+    "date" : "2023-12-31T13:43:19.197039Z",
+    "properties" : {
+      "packageName" : "com.tupago",
+      "projectName" : "TuPagoTemplate",
+      "baseName" : "TuPagoTemplate",
+      "serverPort" : 8080,
+      "endOfLine" : "lf",
+      "configurationFormat" : "yaml",
+      "indentSize" : 2
+    }
+  }, {
+    "module" : "pagination-domain",
+    "date" : "2023-12-31T13:43:19.694945Z",
+    "properties" : {
+      "packageName" : "com.tupago",
+      "projectName" : "TuPagoTemplate",
+      "baseName" : "TuPagoTemplate",
+      "serverPort" : 8080,
+      "endOfLine" : "lf",
+      "configurationFormat" : "yaml",
+      "indentSize" : 2
+    }
+  }, {
+    "module" : "react-jwt",
+    "date" : "2023-12-31T13:43:20.007267Z",
+    "properties" : {
+      "packageName" : "com.tupago",
+      "projectName" : "TuPagoTemplate",
+      "baseName" : "TuPagoTemplate",
+      "serverPort" : 8080,
+      "endOfLine" : "lf",
+      "configurationFormat" : "yaml",
+      "indentSize" : 2
+    }
+  }, {
+    "module" : "spring-boot",
+    "date" : "2023-12-31T13:43:20.495165Z",
+    "properties" : {
+      "packageName" : "com.tupago",
+      "projectName" : "TuPagoTemplate",
+      "baseName" : "TuPagoTemplate",
+      "serverPort" : 8080,
+      "endOfLine" : "lf",
+      "configurationFormat" : "yaml",
+      "indentSize" : 2
+    }
+  }, {
+    "module" : "postgresql",
+    "date" : "2023-12-31T13:43:21.000419Z",
+    "properties" : {
+      "packageName" : "com.tupago",
+      "projectName" : "TuPagoTemplate",
+      "baseName" : "TuPagoTemplate",
+      "serverPort" : 8080,
+      "endOfLine" : "lf",
+      "configurationFormat" : "yaml",
+      "indentSize" : 2
+    }
+  }, {
+    "module" : "redis",
+    "date" : "2023-12-31T13:43:21.495422Z",
+    "properties" : {
+      "packageName" : "com.tupago",
+      "projectName" : "TuPagoTemplate",
+      "baseName" : "TuPagoTemplate",
+      "serverPort" : 8080,
+      "endOfLine" : "lf",
+      "configurationFormat" : "yaml",
+      "indentSize" : 2
+    }
+  }, {
+    "module" : "spring-boot-async",
+    "date" : "2023-12-31T13:43:21.812778Z",
+    "properties" : {
+      "packageName" : "com.tupago",
+      "projectName" : "TuPagoTemplate",
+      "baseName" : "TuPagoTemplate",
+      "serverPort" : 8080,
+      "endOfLine" : "lf",
+      "configurationFormat" : "yaml",
+      "indentSize" : 2
+    }
+  }, {
+    "module" : "spring-boot-cache",
+    "date" : "2023-12-31T13:43:22.203358Z",
+    "properties" : {
+      "packageName" : "com.tupago",
+      "projectName" : "TuPagoTemplate",
+      "baseName" : "TuPagoTemplate",
+      "serverPort" : 8080,
+      "endOfLine" : "lf",
+      "configurationFormat" : "yaml",
+      "indentSize" : 2
+    }
+  }, {
+    "module" : "spring-boot-devtools",
+    "date" : "2023-12-31T13:43:22.599529Z",
+    "properties" : {
+      "packageName" : "com.tupago",
+      "projectName" : "TuPagoTemplate",
+      "baseName" : "TuPagoTemplate",
+      "serverPort" : 8080,
+      "endOfLine" : "lf",
+      "configurationFormat" : "yaml",
+      "indentSize" : 2
+    }
+  }, {
+    "module" : "spring-boot-kafka",
+    "date" : "2023-12-31T13:43:23.109490Z",
+    "properties" : {
+      "packageName" : "com.tupago",
+      "projectName" : "TuPagoTemplate",
+      "baseName" : "TuPagoTemplate",
+      "serverPort" : 8080,
+      "endOfLine" : "lf",
+      "configurationFormat" : "yaml",
+      "indentSize" : 2
+    }
+  }, {
+    "module" : "spring-boot-webflux-empty",
+    "date" : "2023-12-31T13:43:23.412436Z",
+    "properties" : {
+      "packageName" : "com.tupago",
+      "projectName" : "TuPagoTemplate",
+      "baseName" : "TuPagoTemplate",
+      "serverPort" : 8080,
+      "endOfLine" : "lf",
+      "configurationFormat" : "yaml",
+      "indentSize" : 2
+    }
+  }, {
+    "module" : "ehcache-java-config",
+    "date" : "2023-12-31T13:43:23.806178Z",
+    "properties" : {
+      "packageName" : "com.tupago",
+      "projectName" : "TuPagoTemplate",
+      "baseName" : "TuPagoTemplate",
+      "serverPort" : 8080,
+      "endOfLine" : "lf",
+      "configurationFormat" : "yaml",
+      "indentSize" : 2
+    }
+  }, {
+    "module" : "jpa-pagination",
+    "date" : "2023-12-31T13:43:24.109156Z",
+    "properties" : {
+      "packageName" : "com.tupago",
+      "projectName" : "TuPagoTemplate",
+      "baseName" : "TuPagoTemplate",
+      "serverPort" : 8080,
+      "endOfLine" : "lf",
+      "configurationFormat" : "yaml",
+      "indentSize" : 2
+    }
+  }, {
+    "module" : "spring-boot-actuator",
+    "date" : "2023-12-31T13:43:24.505722Z",
+    "properties" : {
+      "packageName" : "com.tupago",
+      "projectName" : "TuPagoTemplate",
+      "baseName" : "TuPagoTemplate",
+      "serverPort" : 8080,
+      "endOfLine" : "lf",
+      "configurationFormat" : "yaml",
+      "indentSize" : 2
+    }
+  }, {
+    "module" : "spring-boot-kafka-dummy-producer-consumer",
+    "date" : "2023-12-31T13:43:24.896007Z",
+    "properties" : {
+      "packageName" : "com.tupago",
+      "projectName" : "TuPagoTemplate",
+      "baseName" : "TuPagoTemplate",
+      "serverPort" : 8080,
+      "endOfLine" : "lf",
+      "configurationFormat" : "yaml",
+      "indentSize" : 2
+    }
+  }, {
+    "module" : "spring-boot-webflux-netty",
+    "date" : "2023-12-31T13:43:25.294914Z",
+    "properties" : {
+      "packageName" : "com.tupago",
+      "projectName" : "TuPagoTemplate",
+      "baseName" : "TuPagoTemplate",
+      "serverPort" : 8080,
+      "endOfLine" : "lf",
+      "configurationFormat" : "yaml",
+      "indentSize" : 2
+    }
+  }, {
+    "module" : "hibernate-2nd-level-cache",
+    "date" : "2023-12-31T13:43:25.606300Z",
+    "properties" : {
+      "packageName" : "com.tupago",
+      "projectName" : "TuPagoTemplate",
+      "baseName" : "TuPagoTemplate",
+      "serverPort" : 8080,
+      "endOfLine" : "lf",
+      "configurationFormat" : "yaml",
+      "indentSize" : 2
+    }
+  }, {
+    "module" : "spring-cloud",
+    "date" : "2023-12-31T13:43:26.093637Z",
+    "properties" : {
+      "packageName" : "com.tupago",
+      "projectName" : "TuPagoTemplate",
+      "baseName" : "TuPagoTemplate",
+      "serverPort" : 8080,
+      "endOfLine" : "lf",
+      "configurationFormat" : "yaml",
+      "indentSize" : 2
+    }
+  }, {
+    "module" : "eureka-client",
+    "date" : "2023-12-31T13:43:26.496109Z",
+    "properties" : {
+      "packageName" : "com.tupago",
+      "projectName" : "TuPagoTemplate",
+      "baseName" : "TuPagoTemplate",
+      "serverPort" : 8080,
+      "endOfLine" : "lf",
+      "configurationFormat" : "yaml",
+      "indentSize" : 2
+    }
+  }, {
+    "module" : "gateway",
+    "date" : "2023-12-31T13:43:26.895555Z",
+    "properties" : {
+      "packageName" : "com.tupago",
+      "projectName" : "TuPagoTemplate",
+      "baseName" : "TuPagoTemplate",
+      "serverPort" : 8080,
+      "endOfLine" : "lf",
+      "configurationFormat" : "yaml",
+      "indentSize" : 2
+    }
+  }, {
+    "module" : "springdoc-webflux-openapi",
+    "date" : "2023-12-31T13:43:27.211035Z",
+    "properties" : {
+      "packageName" : "com.tupago",
+      "projectName" : "TuPagoTemplate",
+      "baseName" : "TuPagoTemplate",
+      "serverPort" : 8080,
+      "endOfLine" : "lf",
+      "configurationFormat" : "yaml",
+      "indentSize" : 2
+    }
+  }, {
+    "module" : "rest-pagination",
+    "date" : "2023-12-31T13:43:27.596311Z",
+    "properties" : {
+      "packageName" : "com.tupago",
+      "projectName" : "TuPagoTemplate",
+      "baseName" : "TuPagoTemplate",
+      "serverPort" : 8080,
+      "endOfLine" : "lf",
+      "configurationFormat" : "yaml",
+      "indentSize" : 2
+    }
+  }, {
+    "module" : "custom-jhlite",
+    "date" : "2023-12-31T14:02:23.413554Z",
+    "properties" : {
+      "packageName" : "com.tupago",
+      "projectName" : "TuPagoTemplate",
+      "baseName" : "TuPagoTemplate",
+      "serverPort" : 8080,
+      "endOfLine" : "lf",
+      "configurationFormat" : "yaml",
+      "indentSize" : 2
+    }
+  }, {
+    "module" : "logstash",
+    "date" : "2023-12-31T14:02:23.899527Z",
+    "properties" : {
+      "packageName" : "com.tupago",
+      "projectName" : "TuPagoTemplate",
+      "baseName" : "TuPagoTemplate",
+      "serverPort" : 8080,
+      "endOfLine" : "lf",
+      "configurationFormat" : "yaml",
+      "indentSize" : 2
+    }
+  }, {
+    "module" : "init",
+    "date" : "2023-12-31T14:02:25.832203Z",
+    "properties" : {
+      "packageName" : "com.tupago",
+      "projectName" : "TuPagoTemplate",
+      "baseName" : "TuPagoTemplate",
+      "serverPort" : 8080,
+      "endOfLine" : "lf",
+      "configurationFormat" : "yaml",
+      "indentSize" : 2
+    }
+  }, {
+    "module" : "maven-java",
+    "date" : "2023-12-31T14:02:26.211824Z",
+    "properties" : {
+      "packageName" : "com.tupago",
+      "projectName" : "TuPagoTemplate",
+      "baseName" : "TuPagoTemplate",
+      "serverPort" : 8080,
+      "endOfLine" : "lf",
+      "configurationFormat" : "yaml",
+      "indentSize" : 2
+    }
+  }, {
+    "module" : "prettier",
+    "date" : "2023-12-31T14:02:26.597727Z",
+    "properties" : {
+      "packageName" : "com.tupago",
+      "projectName" : "TuPagoTemplate",
+      "baseName" : "TuPagoTemplate",
+      "serverPort" : 8080,
+      "endOfLine" : "lf",
+      "configurationFormat" : "yaml",
+      "indentSize" : 2
+    }
+  }, {
+    "module" : "java-base",
+    "date" : "2023-12-31T14:02:26.995452Z",
+    "properties" : {
+      "packageName" : "com.tupago",
+      "projectName" : "TuPagoTemplate",
+      "baseName" : "TuPagoTemplate",
+      "serverPort" : 8080,
+      "endOfLine" : "lf",
+      "configurationFormat" : "yaml",
+      "indentSize" : 2
+    }
+  }, {
+    "module" : "react-core",
+    "date" : "2023-12-31T14:02:27.493092Z",
+    "properties" : {
+      "packageName" : "com.tupago",
+      "projectName" : "TuPagoTemplate",
+      "baseName" : "TuPagoTemplate",
+      "serverPort" : 8080,
+      "endOfLine" : "lf",
+      "configurationFormat" : "yaml",
+      "indentSize" : 2
+    }
+  }, {
+    "module" : "java-memoizers",
+    "date" : "2023-12-31T14:02:27.807003Z",
+    "properties" : {
+      "packageName" : "com.tupago",
+      "projectName" : "TuPagoTemplate",
+      "baseName" : "TuPagoTemplate",
+      "serverPort" : 8080,
+      "endOfLine" : "lf",
+      "configurationFormat" : "yaml",
+      "indentSize" : 2
+    }
+  }, {
+    "module" : "pagination-domain",
+    "date" : "2023-12-31T14:02:28.206175Z",
+    "properties" : {
+      "packageName" : "com.tupago",
+      "projectName" : "TuPagoTemplate",
+      "baseName" : "TuPagoTemplate",
+      "serverPort" : 8080,
+      "endOfLine" : "lf",
+      "configurationFormat" : "yaml",
+      "indentSize" : 2
+    }
+  }, {
+    "module" : "react-jwt",
+    "date" : "2023-12-31T14:02:28.601055Z",
+    "properties" : {
+      "packageName" : "com.tupago",
+      "projectName" : "TuPagoTemplate",
+      "baseName" : "TuPagoTemplate",
+      "serverPort" : 8080,
+      "endOfLine" : "lf",
+      "configurationFormat" : "yaml",
+      "indentSize" : 2
+    }
+  }, {
+    "module" : "spring-boot",
+    "date" : "2023-12-31T14:02:29.101035Z",
+    "properties" : {
+      "packageName" : "com.tupago",
+      "projectName" : "TuPagoTemplate",
+      "baseName" : "TuPagoTemplate",
+      "serverPort" : 8080,
+      "endOfLine" : "lf",
+      "configurationFormat" : "yaml",
+      "indentSize" : 2
+    }
+  }, {
+    "module" : "custom-jhlite",
+    "date" : "2023-12-31T14:02:29.599669Z",
+    "properties" : {
+      "packageName" : "com.tupago",
+      "projectName" : "TuPagoTemplate",
+      "baseName" : "TuPagoTemplate",
+      "serverPort" : 8080,
+      "endOfLine" : "lf",
+      "configurationFormat" : "yaml",
+      "indentSize" : 2
+    }
+  }, {
+    "module" : "logstash",
+    "date" : "2023-12-31T14:02:30.004344Z",
+    "properties" : {
+      "packageName" : "com.tupago",
+      "projectName" : "TuPagoTemplate",
+      "baseName" : "TuPagoTemplate",
+      "serverPort" : 8080,
+      "endOfLine" : "lf",
+      "configurationFormat" : "yaml",
+      "indentSize" : 2
+    }
+  }, {
+    "module" : "postgresql",
+    "date" : "2023-12-31T14:02:30.594414Z",
+    "properties" : {
+      "packageName" : "com.tupago",
+      "projectName" : "TuPagoTemplate",
+      "baseName" : "TuPagoTemplate",
+      "serverPort" : 8080,
+      "endOfLine" : "lf",
+      "configurationFormat" : "yaml",
+      "indentSize" : 2
+    }
+  }, {
+    "module" : "redis",
+    "date" : "2023-12-31T14:02:31.001173Z",
+    "properties" : {
+      "packageName" : "com.tupago",
+      "projectName" : "TuPagoTemplate",
+      "baseName" : "TuPagoTemplate",
+      "serverPort" : 8080,
+      "endOfLine" : "lf",
+      "configurationFormat" : "yaml",
+      "indentSize" : 2
+    }
+  }, {
+    "module" : "spring-boot-async",
+    "date" : "2023-12-31T14:02:31.401688Z",
+    "properties" : {
+      "packageName" : "com.tupago",
+      "projectName" : "TuPagoTemplate",
+      "baseName" : "TuPagoTemplate",
+      "serverPort" : 8080,
+      "endOfLine" : "lf",
+      "configurationFormat" : "yaml",
+      "indentSize" : 2
+    }
+  }, {
+    "module" : "spring-boot-cache",
+    "date" : "2023-12-31T14:02:31.805925Z",
+    "properties" : {
+      "packageName" : "com.tupago",
+      "projectName" : "TuPagoTemplate",
+      "baseName" : "TuPagoTemplate",
+      "serverPort" : 8080,
+      "endOfLine" : "lf",
+      "configurationFormat" : "yaml",
+      "indentSize" : 2
+    }
+  }, {
+    "module" : "spring-boot-devtools",
+    "date" : "2023-12-31T14:02:32.296964Z",
+    "properties" : {
+      "packageName" : "com.tupago",
+      "projectName" : "TuPagoTemplate",
+      "baseName" : "TuPagoTemplate",
+      "serverPort" : 8080,
+      "endOfLine" : "lf",
+      "configurationFormat" : "yaml",
+      "indentSize" : 2
+    }
+  }, {
+    "module" : "spring-boot-kafka",
+    "date" : "2023-12-31T14:02:32.714469Z",
+    "properties" : {
+      "packageName" : "com.tupago",
+      "projectName" : "TuPagoTemplate",
+      "baseName" : "TuPagoTemplate",
+      "serverPort" : 8080,
+      "endOfLine" : "lf",
+      "configurationFormat" : "yaml",
+      "indentSize" : 2
+    }
+  }, {
+    "module" : "spring-boot-webflux-empty",
+    "date" : "2023-12-31T14:02:33.209701Z",
+    "properties" : {
+      "packageName" : "com.tupago",
+      "projectName" : "TuPagoTemplate",
+      "baseName" : "TuPagoTemplate",
+      "serverPort" : 8080,
+      "endOfLine" : "lf",
+      "configurationFormat" : "yaml",
+      "indentSize" : 2
+    }
+  }, {
+    "module" : "ehcache-java-config",
+    "date" : "2023-12-31T14:02:33.698210Z",
+    "properties" : {
+      "packageName" : "com.tupago",
+      "projectName" : "TuPagoTemplate",
+      "baseName" : "TuPagoTemplate",
+      "serverPort" : 8080,
+      "endOfLine" : "lf",
+      "configurationFormat" : "yaml",
+      "indentSize" : 2
+    }
+  }, {
+    "module" : "jpa-pagination",
+    "date" : "2023-12-31T14:02:34.094029Z",
+    "properties" : {
+      "packageName" : "com.tupago",
+      "projectName" : "TuPagoTemplate",
+      "baseName" : "TuPagoTemplate",
+      "serverPort" : 8080,
+      "endOfLine" : "lf",
+      "configurationFormat" : "yaml",
+      "indentSize" : 2
+    }
+  }, {
+    "module" : "spring-boot-actuator",
+    "date" : "2023-12-31T14:02:34.497181Z",
+    "properties" : {
+      "packageName" : "com.tupago",
+      "projectName" : "TuPagoTemplate",
+      "baseName" : "TuPagoTemplate",
+      "serverPort" : 8080,
+      "endOfLine" : "lf",
+      "configurationFormat" : "yaml",
+      "indentSize" : 2
+    }
+  }, {
+    "module" : "spring-boot-webflux-netty",
+    "date" : "2023-12-31T14:02:34.906310Z",
+    "properties" : {
+      "packageName" : "com.tupago",
+      "projectName" : "TuPagoTemplate",
+      "baseName" : "TuPagoTemplate",
+      "serverPort" : 8080,
+      "endOfLine" : "lf",
+      "configurationFormat" : "yaml",
+      "indentSize" : 2
+    }
+  }, {
+    "module" : "hibernate-2nd-level-cache",
+    "date" : "2023-12-31T14:02:35.306044Z",
+    "properties" : {
+      "packageName" : "com.tupago",
+      "projectName" : "TuPagoTemplate",
+      "baseName" : "TuPagoTemplate",
+      "serverPort" : 8080,
+      "endOfLine" : "lf",
+      "configurationFormat" : "yaml",
+      "indentSize" : 2
+    }
+  }, {
+    "module" : "spring-cloud",
+    "date" : "2023-12-31T14:02:35.807408Z",
+    "properties" : {
+      "packageName" : "com.tupago",
+      "projectName" : "TuPagoTemplate",
+      "baseName" : "TuPagoTemplate",
+      "serverPort" : 8080,
+      "endOfLine" : "lf",
+      "configurationFormat" : "yaml",
+      "indentSize" : 2
+    }
+  }, {
+    "module" : "eureka-client",
+    "date" : "2023-12-31T14:02:36.315126Z",
+    "properties" : {
+      "packageName" : "com.tupago",
+      "projectName" : "TuPagoTemplate",
+      "baseName" : "TuPagoTemplate",
+      "serverPort" : 8080,
+      "endOfLine" : "lf",
+      "configurationFormat" : "yaml",
+      "indentSize" : 2
+    }
+  }, {
+    "module" : "gateway",
+    "date" : "2023-12-31T14:02:36.793359Z",
+    "properties" : {
+      "packageName" : "com.tupago",
+      "projectName" : "TuPagoTemplate",
+      "baseName" : "TuPagoTemplate",
+      "serverPort" : 8080,
+      "endOfLine" : "lf",
+      "configurationFormat" : "yaml",
+      "indentSize" : 2
+    }
+  }, {
+    "module" : "springdoc-webflux-openapi",
+    "date" : "2023-12-31T14:02:37.205183Z",
+    "properties" : {
+      "packageName" : "com.tupago",
+      "projectName" : "TuPagoTemplate",
+      "baseName" : "TuPagoTemplate",
+      "serverPort" : 8080,
+      "endOfLine" : "lf",
+      "configurationFormat" : "yaml",
+      "indentSize" : 2
+    }
+  }, {
+    "module" : "rest-pagination",
+    "date" : "2023-12-31T14:02:37.600127Z",
+    "properties" : {
+      "packageName" : "com.tupago",
+      "projectName" : "TuPagoTemplate",
+      "baseName" : "TuPagoTemplate",
+      "serverPort" : 8080,
+      "endOfLine" : "lf",
+      "configurationFormat" : "yaml",
+      "indentSize" : 2
+    }
+  } ]
+}

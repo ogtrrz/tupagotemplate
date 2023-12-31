@@ -1,0 +1,64 @@
+{
+  "name": "tu-pago-template",
+  "version": "0.0.0",
+  "private": true,
+  "description": "TuPagoTemplate",
+  "license": "UNLICENSED",
+  "engines": {
+    "node": ">=20.10.0"
+  },
+  "cacheDirectories": [
+    "node_modules"
+  ],
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build --emptyOutDir",
+    "preview": "vite preview",
+    "start": "vite",
+    "lint": "eslint --ext .js,.ts,.tsx src/main/webapp/app/**/*",
+    "test": "vitest run --coverage",
+    "test:watch": "vitest --",
+    "prepare": "husky install",
+    "prettier:check": "prettier --check '{,src/**/}*.{md,json,yml,html,js,ts,tsx,css,scss,vue,java,xml}'",
+    "prettier:format": "prettier --write '{,src/**/}*.{md,json,yml,html,js,ts,tsx,css,scss,vue,java,xml}'"
+  },
+  "devDependencies": {
+    "autoprefixer": "10.4.16",
+    "sass": "1.69.5",
+    "postcss": "8.4.32",
+    "tailwindcss": "3.3.6",
+    "@testing-library/react": "14.1.2",
+    "@testing-library/user-event": "14.5.1",
+    "@types/node": "20.10.3",
+    "@types/react": "18.2.42",
+    "@types/react-dom": "18.2.17",
+    "@types/ws": "8.5.10",
+    "@typescript-eslint/eslint-plugin": "6.13.2",
+    "@vitejs/plugin-react": "4.2.1",
+    "@vitest/coverage-istanbul": "1.0.1",
+    "eslint": "8.55.0",
+    "eslint-plugin-react": "7.33.2",
+    "jsdom": "23.0.1",
+    "typescript": "5.3.3",
+    "ts-node": "10.9.1",
+    "vite": "5.0.6",
+    "vite-tsconfig-paths": "4.2.1",
+    "vitest": "1.0.1",
+    "vitest-sonar-reporter": "1.0.0",
+    "@prettier/plugin-xml": "3.2.2",
+    "husky": "8.0.3",
+    "lint-staged": "15.2.0",
+    "prettier": "3.1.0",
+    "prettier-plugin-java": "2.5.0",
+    "prettier-plugin-packagejson": "2.4.7"
+  },
+  "dependencies": {
+    "react-hook-form": "7.48.2",
+    "axios": "1.6.2",
+    "framer-motion": "10.16.14",
+    "@nextui-org/react": "2.2.9",
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
+  },
+  "type": "module"
+}
